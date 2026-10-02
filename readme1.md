@@ -1,7 +1,8 @@
 ## 111210529陳宏傑
 ## 專案連結
-* **目標母專案**：[sese-TEST-examples/git-exmples](https://github.com/sese-TEST-examples/git-exmples)
-* **我 Fork 的專案**：[jerry92916/git-exmples](https://github.com/jerry92916/git-exmples)
+## [母專案](https://github.com/SE-EXAMPLE/git-exmple)
+## [分支](https://github.com/SE-EXAMPLE/git-exmple/tree/developGitBranch)
+## [子專案](https://github.com/jerry92916/git-exmple)
 
 ## 操作步驟
 
